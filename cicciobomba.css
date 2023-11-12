@@ -1,0 +1,64 @@
+.Fullimg{
+    width: 100%;
+    
+}
+.banner{
+    border: 10px solid #fa8072;
+    margin-top: 0px;
+    
+}
+
+.menu{
+     background-color: #d0cccc;
+     
+}
+
+.menu ul{
+    list-style-type: none;
+    padding: 10px;
+    margin-top: 0px;
+
+}
+
+.menu li{
+    display: inline-block;
+    margin-right: 10px;
+    
+}
+.main {
+    margin-left: 200px;
+    color: green;
+    background-color: #e0ecc4;
+    width: 960px;
+    
+}
+
+h1{
+    color: #fa8072;
+}
+
+body{
+    background-color: #e0ecc4;
+
+}
+.footer{
+    background-color: green;
+    text-align: center;
+    margin-top: 20px;
+    padding:10px;
+}
+body{
+    margin: 0px;
+    
+}
+.gallery {
+    
+    display: flex;
+    padding-top: 20px;
+    
+
+   
+}
+img{
+
+}

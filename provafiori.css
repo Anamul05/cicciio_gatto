@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    background-color: yellowgreen;
+}
+.header{
+    border: 2px solid #ccc;
+    margin-bottom: -5px;
+}
+
+.fullimg{
+    width: 100%;
+
+
+}
+
+.menu{
+    background-color: aqua;
+}
+
+.menu ul{
+    list-style-type:none;
+    margin-top: 0px;
+    padding: 5px;
+}
+
+.menu li{
+    display: inline-block;
+    margin-right: 10px;
+    padding: 10px
+}
+
+.footer{
+    text-align: center;
+    background-color: #333;
+    margin-top: 20px;
+
+}
+
+.main{
+    background-color: #ccc;
+    margin: 0 auto;
+    width: 960px;
+    padding: 10px;
+}
